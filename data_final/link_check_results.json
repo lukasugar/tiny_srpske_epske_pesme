@@ -1,0 +1,71 @@
+{
+  "total_links": 145,
+  "working_links": 145,
+  "broken_links": 0,
+  "failed_links": [],
+  "cycles_status": [
+    {
+      "name": "Неисторијски циклус",
+      "total": 8,
+      "working": 8,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Преткосовски циклус",
+      "total": 28,
+      "working": 28,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Косовски циклус",
+      "total": 19,
+      "working": 19,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Песме о Марку Краљевићу",
+      "total": 29,
+      "working": 29,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Покосовски циклус",
+      "total": 23,
+      "working": 23,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Хајдучке и ускочке песме",
+      "total": 9,
+      "working": 9,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Песме о ослобођењу Србије и Црне Горе",
+      "total": 17,
+      "working": 17,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Песме народно-ослободилачке борбе",
+      "total": 5,
+      "working": 5,
+      "broken": 0,
+      "failed_songs": []
+    },
+    {
+      "name": "Неразврстане",
+      "total": 7,
+      "working": 7,
+      "broken": 0,
+      "failed_songs": []
+    }
+  ]
+}

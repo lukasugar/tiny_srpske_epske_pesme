@@ -1,0 +1,631 @@
+[
+    {
+      "ciklus": [
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D0%B3_%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC_%D0%B4%D1%83%D0%B6%D0%B0%D0%BD_%D0%BD%D0%B5_%D0%BE%D1%81%D1%82%D0%B0%D1%98%D0%B5",
+              "naziv": "Бог ником дужан не остаје"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BE_%D0%BA%D1%80%D1%81%D0%BD%D0%BE_%D0%B8%D0%BC%D0%B5_%D1%81%D0%BB%D0%B0%D0%B2%D0%B8,_%D0%BE%D0%BD%D0%BE%D0%BC_%D0%B8_%D0%BF%D0%BE%D0%BC%D0%B0%D0%B6%D0%B5",
+              "naziv": "Ко крсно име слави, оном и помаже"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D0%BF%D0%B5%D1%82_%D1%82%D0%BE,_%D0%B0%D0%BB%D0%B8_%D0%B4%D1%80%D1%83%D0%BA%D1%87%D0%B8%D1%98%D0%B5",
+              "naziv": "Опет то, али друкчије"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B8_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0",
+              "naziv": "Свети Никола"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%82%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%B8_%D0%B4%D0%B2%D0%B0_%D0%B0%D0%BD%D1%92%D0%B5%D0%BB%D0%B0",
+              "naziv": "Ђакон Стефан и два анђела"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%97%D0%B0%D1%80%D1%83%D1%87%D0%BD%D0%B8%D1%86%D0%B0_%D0%9B%D0%B0%D0%B7%D0%B0_%D0%A0%D0%B0%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B%D0%B0",
+              "naziv": "Заручница Лаза Радановића"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D1%83%D0%BC%D0%BE%D0%B2%D0%B0%D1%9A%D0%B5_%D0%93%D1%80%D1%87%D0%B8%D1%9B%D0%B0_%D0%9C%D0%B0%D0%BD%D0%BE%D1%98%D0%BB%D0%B0",
+              "naziv": "Кумовање Грчића Манојла"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D1%83%D0%BD%D0%B0%D0%B2_%D1%81%D0%B5_%D0%A1%D0%B0%D0%B2%D0%BE%D0%BC_%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%BE",
+              "naziv": "Дунав се Савом оженио"
+            }
+          ],
+          "naziv_ciklusa": "Неисторијски циклус"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D1%83%D1%82%D0%B8%D0%BD_%D0%B8_%D0%94%D1%83%D0%BA%D0%B0_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B0%D1%86",
+              "naziv": "Бан Милутин и Дука Херцеговац"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B_%D0%A1%D1%82%D1%80%D0%B0%D1%85%D0%B8%D1%9A%D0%B0",
+              "naziv": "Бановић Страхиња"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D0%B0%D1%80%D0%BE%D0%B2%D0%B8_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%88%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0",
+              "naziv": "Дарови светог Јована Владимира"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D0%B8%D1%98%D0%B5%D1%82%D0%B5_%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%B8_%D1%9B%D0%B5%D1%80%D0%BA%D0%B0_%D1%86%D0%B0%D1%80%D0%B0_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B0",
+              "naziv": "Дијете Јован и ћерка цара Стефана"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D1%83%D1%88%D0%B0%D0%BD_%D1%85%D0%BE%D1%9B%D0%B5_%D1%81%D0%B5%D1%81%D1%82%D1%80%D1%83_%D0%B4%D0%B0_%D1%83%D0%B7%D0%BC%D0%B5",
+              "naziv": "Душан хоће сестру да узме"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0",
+              "naziv": "Женидба Душанова"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%BA%D0%BD%D0%B5%D0%B7%D0%B0_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B0",
+              "naziv": "Женидба кнеза Лазара"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%BA%D1%80%D0%B0%D1%99%D0%B0_%D0%92%D1%83%D0%BA%D0%B0%D1%88%D0%B8%D0%BD%D0%B0",
+              "naziv": "Женидба краља Вукашина"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%97%D0%B8%D0%B4%D0%B0%D1%9A%D0%B5_%D0%A0%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%86%D0%B5",
+              "naziv": "Зидање Раванице"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%97%D0%B8%D0%B4%D0%B0%D1%9A%D0%B5_%D0%A0%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%86%D0%B5,_%D0%BE%D0%BF%D0%B5%D1%82",
+              "naziv": "Зидање Раванице, опет"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%97%D0%B8%D0%B4%D0%B0%D1%9A%D0%B5_%D0%A1%D0%BA%D0%B0%D0%B4%D1%80%D0%B0",
+              "naziv": "Зидање Скадра"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%B0%D0%BA%D0%BE_%D1%81%D0%B5_%D0%BA%D1%80%D1%81%D0%BD%D0%BE_%D0%B8%D0%BC%D0%B5_%D1%81%D0%BB%D1%83%D0%B6%D0%B8",
+              "naziv": "Како се крсно име служи"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D1%80%D0%B0%D1%99_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%B8_%D0%A1%D0%B2%D0%B5%D1%82%D0%B8_%D0%9D%D0%B0%D1%83%D0%BC",
+              "naziv": "Краљ Владимир и Свети Наум"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD-%D0%B1%D0%B5%D0%B3_%D0%B8_%D0%94%D1%80%D0%B0%D0%B3%D1%83%D1%82%D0%B8%D0%BD-%D0%B1%D0%B5%D0%B3",
+              "naziv": "Милан-бег и Драгутин-бег"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D1%83_%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0",
+              "naziv": "Милош у Латинима"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4_%D0%9C%D0%BE%D0%BC%D0%B8%D1%80",
+              "naziv": "Наход Момир"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D0%B5%D1%81%D0%BC%D0%B0_%D0%BE_%D0%BA%D1%80%D0%B0%D1%99%D1%83_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%83",
+              "naziv": "Песма о краљу Владимиру"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D1%83%D1%82_%D0%BA%D1%80%D0%B0%D1%99%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0",
+              "naziv": "Пут краља Владимира"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B8_%D0%A1%D0%B0%D0%B2%D0%BE",
+              "naziv": "Свети Саво"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0",
+              "naziv": "Смрт Душанова"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D1%86%D0%B0%D1%80%D0%B0_%D0%A3%D1%80%D0%BE%D1%88%D0%B0",
+              "naziv": "Смрт цара Уроша"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A2%D1%80%D0%B8_%D0%B4%D0%BE%D0%B1%D1%80%D0%B0_%D1%98%D1%83%D0%BD%D0%B0%D0%BA%D0%B0",
+              "naziv": "Три добра јунака"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A3%D0%B4%D0%B0%D1%98%D0%B0_%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B5_%D0%94%D1%83%D1%88%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5",
+              "naziv": "Удаја сестре Душанове"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_%D0%B8_%D0%9C%D1%80%D1%9A%D0%B0%D0%B2%D1%87%D0%B5%D0%B2%D0%B8%D1%9B%D0%B8",
+              "naziv": "Урош и Мрњавчевићи"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A6%D0%B0%D1%80_%D0%94%D1%83%D0%BA%D0%BB%D0%B8%D1%98%D0%B0%D0%BD_%D0%B8_%D0%9A%D1%80%D1%81%D1%82%D0%B8%D1%82%D0%B5%D1%99_%D0%88%D0%BE%D0%B2%D0%B0%D0%BD",
+              "naziv": "Цар Дуклијан и Крститељ Јован"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A6%D0%B0%D1%80_%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%B8_%D1%92%D0%B0%D1%87%D0%B5_%D1%81%D0%B0%D0%BC%D0%BE%D1%83%D1%87%D0%B5",
+              "naziv": "Цар Костантин и ђаче самоуче"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D0%B0_%D0%9C%D0%B8%D0%BB%D0%B8%D1%86%D0%B0_%D0%B8_%D0%B7%D0%BC%D0%B0%D1%98_%D0%BE%D0%B4_%D0%88%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BF%D1%86%D0%B0",
+              "naziv": "Царица Милица и змај од Јастрепца"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D0%B8%D0%BB%D0%B8%D1%9B_%D0%B7%D0%BC%D0%B0%D1%98%D1%81%D0%BA%D0%B8_%D1%81%D0%B8%D0%BD",
+              "naziv": "Милош Обилић змајски син"
+            }
+          ],
+          "naziv_ciklusa": "Преткосовски циклус"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BD%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%B0",
+              "naziv": "Кнежева вечера"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BD%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0_%D0%BA%D0%BB%D0%B5%D1%82%D0%B2%D0%B0",
+              "naziv": "Кнежева клетва"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D0%BD%D1%87%D0%B8%D1%9B_%D0%98%D0%B2%D0%B0%D0%BD_%D1%83%D1%85%D0%BE%D0%B4%D0%B8_%D0%A2%D1%83%D1%80%D0%BA%D0%B5",
+              "naziv": "Косанчић Иван уходи Турке"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D0%B5%D0%B2%D0%BE%D1%98%D0%BA%D0%B0",
+              "naziv": "Косовка девојка"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%D1%98%D0%BA%D0%B0",
+              "naziv": "Косовка дјевојка"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8_%D0%B1%D0%BE%D1%98",
+              "naziv": "Косовски бој"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B8_%D0%91%D0%BE%D0%B6%D0%B5,_%D1%87%D1%83%D0%B4%D0%B0_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B3%D0%B0,_%D0%BA%D0%B0_%D1%81%D0%B5_%D1%81%D0%BB%D0%B5%D0%B7%D0%B5_%D0%BD%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE_%D0%A0%D0%B0%D0%BC%D0%BD%D0%BE",
+              "naziv": "Мили Боже, чуда великога"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D1%83%D1%81%D0%B8%D1%9B_%D0%A1%D1%82%D0%B5%D0%B2%D0%B0%D0%BD",
+              "naziv": "Мусић Стеван"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D0%B1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D1%98%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B2%D0%B5_%D0%BA%D0%BD%D0%B5%D0%B7%D0%B0_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B0",
+              "naziv": "Обретеније главе кнеза Лазара"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D1%80%D0%BE%D0%BF%D0%B0%D1%81%D1%82_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%BE%D0%B3%D0%B0",
+              "naziv": "Пропаст царства српскога"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BB%D1%83%D0%B3%D0%B0_%D0%9C%D0%B8%D0%BB%D1%83%D1%82%D0%B8%D0%BD",
+              "naziv": "Слуга Милутин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%BC%D0%B0%D1%98%D0%BA%D0%B5_%D0%88%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D1%9B%D0%B0",
+              "naziv": "Смрт мајке Југовића"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%9C%D0%B8%D0%BB%D0%BE%D1%88%D0%B0_%D0%94%D1%80%D0%B0%D0%B3%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%9B%D0%B0_(%D0%9E%D0%B1%D0%B8%D0%BB%D0%B8%D1%9B%D0%B0)",
+              "naziv": "Смрт Милоша Драгиловића (Обилића)"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A6%D0%B0%D1%80_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%B8_%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0_%D0%9C%D0%B8%D0%BB%D0%B8%D1%86%D0%B0",
+              "naziv": "Цар Лазар и царица Милица"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A6%D0%B0%D1%80_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D1%81%D0%B5_%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BC",
+              "naziv": "Цар Лазар се приволева царству небеском"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D0%B0_%D0%9C%D0%B8%D0%BB%D0%B8%D1%86%D0%B0_%D0%B8_%D0%92%D0%BB%D0%B0%D0%B4%D0%B5%D1%82%D0%B0_%D0%B2%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B0",
+              "naziv": "Царица Милица и Владета војвода"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%88%D1%83%D1%80%D0%B8%D1%88%D0%B8%D1%9B_%D0%88%D0%B0%D0%BD%D0%BA%D0%BE",
+              "naziv": "Јуришић Јанко"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B0%D0%BD_%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B5_%D0%9C%D0%B8%D0%BB%D0%B8%D1%86%D0%B5",
+              "naziv": "Сан царице Милице"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%97%D0%B0%D1%81%D0%BF%D0%B0%D0%BB%D0%B0_%D0%BC%D0%B8_%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0_%D0%9C%D0%B8%D0%BB%D0%B8%D1%86%D0%B0",
+              "naziv": "Заспала ми царица Милица"
+            }
+          ],
+          "naziv_ciklusa": "Косовски циклус"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D1%98%D0%B5%D0%B2%D0%BE%D1%98%D0%BA%D0%B0_%D0%BD%D0%B0%D0%B4%D0%BC%D1%83%D0%B4%D1%80%D0%B8%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0",
+              "naziv": "Дјевојка надмудрила Марка"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%B0_%D0%9B%D0%B5%D0%BA%D0%B5_%D0%BA%D0%B0%D0%BF%D0%B5%D1%82%D0%B0%D0%BD%D0%B0",
+              "naziv": "Сестра Леке капетана"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B%D0%B0",
+              "naziv": "Женидба Марка Краљевића"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9B%D0%BE%D0%B2_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2_%D1%81%D0%B0_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%BC%D0%B0",
+              "naziv": "Лов Марков са Турцима"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_12_%D0%90%D1%80%D0%B0%D0%BF%D0%B0",
+              "naziv": "Марко Краљевић и 12 Арапа"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%90%D0%BB%D0%B8%D0%BB-%D0%B0%D0%B3%D0%B0",
+              "naziv": "Марко Краљевић и Алил-ага"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%90%D1%80%D0%B0%D0%BF%D0%B8%D0%BD",
+              "naziv": "Марко Краљевић и Арапин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%90%D1%80%D0%B0%D0%BF(%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0)",
+              "naziv": "Марко Краљевић и Арап"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%B1%D0%B5%D0%B3_%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BD",
+              "naziv": "Марко Краљевић и бег Костадин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%B1%D1%80%D0%B0%D1%82_%D0%BC%D1%83_%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D1%98%D0%B0%D1%88",
+              "naziv": "Марко Краљевић и брат му Андријаш"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%B2%D0%B8%D0%BB%D0%B0",
+              "naziv": "Марко Краљевић и вила"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%92%D1%83%D1%87%D0%B0_%D1%9F%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB",
+              "naziv": "Марко Краљевић и Вуча џенерал"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%82%D0%B5%D0%BC%D0%BE_%D0%91%D1%80%D1%92%D0%B0%D0%BD%D0%B8%D0%BD",
+              "naziv": "Марко Краљевић и Ђемо Брђанин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%BA%D1%9B%D0%B8_%D0%BA%D1%80%D0%B0%D1%99%D0%B0_%D0%90%D1%80%D0%B0%D0%BF%D1%81%D0%BA%D0%BE%D0%B3%D0%B0",
+              "naziv": "Марко Краљевић и кћи краља Арапскога"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%89%D1%83%D1%82%D0%B8%D1%86%D0%B0_%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD",
+              "naziv": "Марко Краљевић и Љутица Богдан"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%9C%D0%B8%D0%BD%D0%B0_%D0%BE%D0%B4_%D0%9A%D0%BE%D1%81%D1%82%D1%83%D1%80%D0%B0",
+              "naziv": "Марко Краљевић и Мина од Костура"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%9C%D1%83%D1%81%D0%B0_%D0%9A%D0%B5%D1%81%D0%B5%D1%9F%D0%B8%D1%98%D0%B0",
+              "naziv": "Марко Краљевић и Муса Кесеџија"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%BE%D1%80%D0%B0%D0%BE",
+              "naziv": "Марко Краљевић и орао"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D1%81%D0%BE%D0%BA%D0%BE",
+              "naziv": "Марко Краљевић и соко"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF_%D0%9C%D0%B0%D1%9F%D0%B0%D1%80%D0%B8%D0%BD",
+              "naziv": "Марко Краљевић и Филип Маџарин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D1%83_%D0%90%D0%B7%D0%B0%D1%87%D0%BA%D0%BE%D1%98_%D1%82%D0%B0%D0%BC%D0%BD%D0%B8%D1%86%D0%B8",
+              "naziv": "Марко Краљевић у Азачкој тамници"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B_%D1%83%D0%BA%D0%B8%D0%B4%D0%B0_%D1%81%D0%B2%D0%B0%D0%B4%D0%B1%D0%B0%D1%80%D0%B8%D0%BD%D1%83",
+              "naziv": "Марко Краљевић укида свадбарину"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%BF%D0%B8%D1%98%D0%B5_%D1%83%D0%B7_%D1%80%D0%B0%D0%BC%D0%B0%D0%B7%D0%B0%D0%BD_%D0%B2%D0%B8%D0%BD%D0%BE",
+              "naziv": "Марко пије уз рамазан вино"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D1%98%D0%B5_%D0%BE%D1%87%D0%B8%D0%BD%D1%83_%D1%81%D0%B0%D0%B1%D1%99%D1%83",
+              "naziv": "Марко познаје очину сабљу"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D1%80%D0%B0%D1%9A%D0%B5_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B%D0%B0",
+              "naziv": "Орање Марка Краљевића"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B5%D0%B4%D0%B5_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE_%D1%81_%D0%BC%D0%B0%D1%98%D0%BA%D1%83_%D0%B4%D0%B0_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%B0(%D1%81%D0%B0_%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%B0)",
+              "naziv": "Седе Марко с мајку да вечера"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%B8%D1%9B_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0",
+              "naziv": "Сестрић Краљевића Марка"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D1%9B%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0",
+              "naziv": "Смрт Краљевића Марка"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8_%D1%83_%D0%9C%D0%B0%D1%80%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%81%D0%BB%D0%B0%D0%B2%D0%B8",
+              "naziv": "Турци у Марка на слави"
+            }
+          ],
+          "naziv_ciklusa": "Песме о Марку Краљевићу"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%B8_%D0%A1%D1%82%D0%B5%D0%B2%D0%B0%D0%BD_%D0%B8_%D0%B4%D0%B8%D0%B2%D0%BE%D0%B2%D0%B8",
+              "naziv": "Високи Стеван и дивови"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%B8_%D0%A1%D1%82%D0%B5%D0%B2%D0%B0%D0%BD_%D0%B8_%D1%86%D0%B0%D1%80_%D0%91%D0%B0%D1%98%D0%B0%D0%B7%D0%B8%D1%82",
+              "naziv": "Високи Стеван и цар Бајазит"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%B8_%D0%A1%D1%82%D0%B5%D0%B2%D0%B0%D0%BD_%D0%B8_%D1%86%D0%B0%D1%80_%D0%91%D0%BE%D1%98%D0%B0%D0%B4%D0%B8%D0%BD",
+              "naziv": "Високи Стеван и цар Бојадин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%92%D0%B8%D1%81%D0%BE%D0%BA%D0%B8_%D0%A1%D1%82%D0%B5%D0%B2%D0%B0%D0%BD_%D0%B8_%D0%92%D1%83%D0%BA_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
+              "naziv": "Високи Стеван и Вук Бранковић"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D1%86%D0%B0%D1%80%D0%B0_%D0%91%D0%B0%D1%98%D0%B0%D0%B7%D0%B8%D1%82%D0%B0",
+              "naziv": "Женидба цара Бајазита"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D1%80%D0%B0%D0%BE_%D1%81%D0%B5_%D0%B2%D0%B8%D1%98%D0%B0%D1%88%D0%B5_%D0%BD%D0%B0%D0%B4_%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%BC_%D0%A1%D0%BC%D0%B5%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%BC",
+              "naziv": "Орао се вијаше над градом Смедеревом"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D0%BB%D0%B0%D0%BD%D0%B8_%D0%94%D0%BE%D1%98%D1%87%D0%B8%D0%BD",
+              "naziv": "Болани Дојчин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D0%B8%D0%BE%D0%B1%D0%B0_%D0%88%D0%B0%D0%BA%D1%88%D0%B8%D1%9B%D0%B0",
+              "naziv": "Диоба Јакшића"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D1%83%D0%BC%D0%B0,_%D0%B4%D1%83%D0%BC%D0%B0_%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D1%9B_%D0%A1%D1%82%D0%BE%D1%98%D0%B0%D0%BD%D0%B0",
+              "naziv": "Дума, дума Поповић Стојана"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%82%D1%83%D1%80%D1%92%D0%B5%D0%B2%D0%B0_%D0%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B0",
+              "naziv": "Ђурђева Јерина"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%82%D1%83%D1%80%D1%92%D0%B0_%D0%A1%D0%BC%D0%B5%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%86%D0%B0",
+              "naziv": "Женидба Ђурђа Смедеревца"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D1%9B_%D0%A1%D1%82%D0%BE%D1%98%D0%B0%D0%BD%D0%B0",
+              "naziv": "Женидба Поповић Стојана"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B5%D0%BA%D1%83%D0%BB%D0%B0_%D1%81%D0%B5_%D1%83_%D0%B7%D0%BC%D0%B8%D1%98%D1%83_%D0%BF%D1%80%D0%B5%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D0%BE",
+              "naziv": "Секула се у змију претворио"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%B0%D0%B4_%D1%98%D0%B5_%D0%92%D1%83%D0%BA_%D0%9E%D0%B3%D1%9A%D0%B5%D0%BD%D0%B8_%D1%83%D0%BC%D1%80%D0%BE_%D1%88%D1%82%D0%B0_%D1%98%D0%B5_%D0%BD%D0%B0%D1%80%D0%B5%D0%B4%D0%B8%D0%BE_%D0%BD%D0%B0_%D1%81%D0%B0%D0%BC%D1%80%D1%82%D0%B8",
+              "naziv": "Кад је Вук Огњени умро шта је наредио на самрти"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B8%D1%82%D0%B0_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%D1%98%D0%BA%D0%B0_%D0%B8_%D0%A0%D0%B0%D1%98%D0%BA%D0%BE_%D0%B2%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B0",
+              "naziv": "Маргита дјевојка и Рајко војвода"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA_%D0%A0%D0%B0%D0%B4%D0%BE%D1%81%D0%B0%D0%B2",
+              "naziv": "Облак Радосав"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D1%92%D0%B5%D1%9A%D0%B5_%D0%91%D0%B5%D1%87%D0%B0_%D0%BE%D0%B4_%D0%A2%D1%83%D1%80%D0%B0%D0%BA%D0%B0",
+              "naziv": "Ослобођење Беча од Турака"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D0%BE%D1%80%D1%87%D0%B0_%D0%BE%D0%B4_%D0%90%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B8_%D0%97%D0%BC%D0%B0%D1%98%D0%BE%D0%B3%D1%9A%D0%B5%D0%BD%D0%B8_%D0%92%D1%83%D0%BA",
+              "naziv": "Порча од Авале и Змајогњени Вук"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%B2%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B5_%D0%9A%D0%B0%D1%98%D0%B8%D1%86%D0%B5",
+              "naziv": "Смрт војводе Кајице"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%B2%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B5_%D0%9F%D1%80%D0%B8%D1%98%D0%B5%D0%B7%D0%B4%D0%B5",
+              "naziv": "Смрт војводе Пријезде"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0_%D0%A6%D1%80%D0%BD%D0%BE%D1%98%D0%B5%D0%B2%D0%B8%D1%9B%D0%B0",
+              "naziv": "Смрт Максима Црнојевића"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%89%D1%83%D1%82%D0%B8%D1%86%D0%B0_%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD_%D0%B8_%D0%B2%D0%BE%D1%98%D0%B2%D0%BE%D0%B4%D0%B0_%D0%94%D1%80%D0%B0%D0%B3%D0%B8%D1%98%D0%B0",
+              "naziv": "Љутица Богдан и војвода Драгија"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D0%BE%D0%BF%D0%B8%D1%98%D0%B5%D0%B2%D0%BA%D0%B0_%D0%A0%D0%B0%D0%B4%D0%B8%D1%9B%D0%B0_%D0%92%D1%83%D0%BA%D0%BE%D1%98%D0%B5%D0%B2%D0%B8%D1%9B%D0%B0",
+              "naziv": "Попијевка Радића Вукојевића"
+            }
+          ],
+          "naziv_ciklusa": "Покосовски циклус"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%98%D0%B2%D0%BE_%D0%A1%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B_%D0%B8_%D0%B0%D0%B3%D0%B0_%D0%BE%D0%B4_%D0%A0%D0%B8%D0%B1%D0%BD%D0%B8%D0%BA%D0%B0",
+              "naziv": "Иво Сенковић и ага од Рибника"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%BE%D0%B4_%D0%97%D0%B0%D0%B4%D1%80%D0%B0_%D0%A2%D0%BE%D0%B4%D0%BE%D1%80%D0%B0",
+              "naziv": "Женидба од Задра Тодора"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8_%D0%A0%D0%B0%D0%B4%D0%BE%D1%98%D0%B8%D1%86%D0%B0",
+              "naziv": "Мали Радојица"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D1%82%D0%B0%D1%86_(%D0%B5%D0%BF%D1%81%D0%BA%D0%B0_%D0%BF%D0%B5%D1%81%D0%BC%D0%B0)",
+              "naziv": "Отац"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%80%D0%B0%D0%B3_%D0%B8_%D0%9D%D0%B5%D0%BD%D0%B0%D0%B4",
+              "naziv": "Предраг и Ненад"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A0%D0%BE%D0%BF%D1%81%D1%82%D0%B2%D0%BE_%D0%88%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B_%D0%A1%D1%82%D0%BE%D1%98%D0%B0%D0%BD%D0%B0",
+              "naziv": "Ропство Јанковић Стојана"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D0%A1%D0%B5%D1%9A%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0_%D0%98%D0%B2%D0%B0",
+              "naziv": "Смрт Сењанина Ива"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B8_%D0%92%D1%83%D1%98%D0%B0%D0%B4%D0%B8%D0%BD",
+              "naziv": "Стари Вујадин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA_%D0%B8_%D0%BA%D0%BD%D0%B5%D0%B7_%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%B0%D0%B2",
+              "naziv": "Старина Новак и кнез Богосав"
+            }
+          ],
+          "naziv_ciklusa": "Хајдучке и ускочке песме"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D1%98_%D0%BD%D0%B0_%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D1%83",
+              "naziv": "Бој на Мишару"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D1%98_%D0%BD%D0%B0_%D0%A1%D0%B0%D0%BB%D0%B0%D1%88%D1%83",
+              "naziv": "Бој на Салашу"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D1%98_%D0%BD%D0%B0_%D0%A7%D0%BE%D0%BA%D0%B5%D1%88%D0%B8%D0%BD%D0%B8",
+              "naziv": "Бој на Чокешини"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B0%D0%BB%D0%B8_%D0%97%D0%B0%D1%80%D0%B5_%D0%B4%D0%B0_%D0%B6%D0%B0%D0%BB%D0%B8%D0%BC%D0%BE",
+              "naziv": "Жали, Заре, да жалимо"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B5%D0%BD%D0%B8%D0%B4%D0%B1%D0%B0_%D0%A2%D0%BE%D0%B4%D0%BE%D1%80%D0%B0_%D0%BE%D0%B4_%D0%A1%D1%82%D0%B0%D0%BB%D0%B0%D1%9B%D0%B0",
+              "naziv": "Женидба Тодора од Сталаћа"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%98%D0%B7%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B0_%D0%B7%D0%B0_%D0%B2%D0%BE%D1%92%D0%B0",
+              "naziv": "Избор Карађорђа за вођа"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9A%D0%BD%D0%B5%D0%B7_%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D0%BD%D0%B5%D0%B6%D0%B5%D0%B2%D0%B8%D1%9B",
+              "naziv": "Кнез Иван Кнежевић"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9C%D1%83%D1%82%D0%B0%D0%BF_%D0%B8_%D0%90%D1%80%D0%B0%D0%BF%D0%B8%D0%BD",
+              "naziv": "Лазар Мутап и Арапин"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9E%D0%BF%D1%81%D0%B0%D0%B4%D0%B0_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%B8_%D0%BF%D0%BE%D0%B3%D1%83%D0%B1%D1%99%D0%B5%D1%9A%D0%B5_%D0%B4%D0%B0%D1%85%D0%B8%D1%98%D0%B0",
+              "naziv": "Опсада Београда и погубљење дахија"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D1%9B_%D0%91%D0%B0%D1%82%D1%80%D0%B8%D1%9B",
+              "naziv": "Перовић Батрић"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BA_%D0%B1%D1%83%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B4%D0%B0%D1%85%D0%B8%D1%98%D0%B0",
+              "naziv": "Почетак буне против дахија"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%BA_%D0%9A%D0%B0%D1%80%D0%B0-%D0%82%D0%BE%D1%80%D1%92%D0%B8%D1%98%D0%B0_%D1%81%D0%B0_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%BE%D0%BC",
+              "naziv": "Растанак Кара-Ђорђија са Србијом"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%BC%D1%80%D1%82_%D1%92%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_%D0%90%D0%B2%D0%B0%D0%BA%D1%83%D0%BC%D0%B0",
+              "naziv": "Смрт ђакона Авакума"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A2%D1%80%D0%B8_%D1%81%D1%83%D0%B6%D1%9A%D0%B0",
+              "naziv": "Три сужња"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A3%D0%B7%D0%B8%D0%BC%D0%B0%D1%9A%D0%B5_%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D1%86%D0%B0",
+              "naziv": "Узимање Карановца"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A3%D0%B7%D0%B8%D0%BC%D0%B0%D1%9A%D0%B5_%D0%A3%D0%B6%D0%B8%D1%86%D0%B0",
+              "naziv": "Узимање Ужица"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A3%D0%B7%D0%B8%D0%BC%D0%B0%D1%9A%D0%B5_%D0%A8%D0%B0%D0%BF%D1%86%D0%B0",
+              "naziv": "Узимање Шапца"
+            }
+          ],
+          "naziv_ciklusa": "Песме о ослобођењу Србије и Црне Горе"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/1941.",
+              "naziv": "1941."
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9F%D0%BE%D1%87%D0%B5%D1%82%D0%B0%D0%BA_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D0%BE%D1%80%D0%B4%D1%83%D0%BD%D1%83",
+              "naziv": "Почетак устанка на Кордуну"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D1%98_%D0%BD%D0%B0_%D0%9B%D0%B0%D1%81%D0%B8%D1%9A%D0%B8_12._%D0%BC%D0%B0%D1%98%D0%B0_1942._%D0%B3%D0%BE%D0%B4.",
+              "naziv": "Бој на Ласињи 12. маја 1942. год."
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D1%98_%D0%BD%D0%B0_%D0%89%D1%83%D0%B1%D0%BE%D0%B2%D1%83",
+              "naziv": "Бој на Љубову"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%91%D0%BE%D1%98_%D1%81_%D0%A2%D0%B0%D0%BB%D0%B8%D1%98%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%A7%D1%83%D0%BA%D1%83%D1%80%D1%83_2._XII_1941._%D0%B3%D0%BE%D0%B4.",
+              "naziv": "Бој с Талијанима на Чукуру 2. XII 1941. год."
+            }
+          ],
+          "naziv_ciklusa": "Песме народно-ослободилачке борбе"
+        },
+        {
+          "pesme": [
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%96%D0%B0%D0%BB%D0%B8_%D0%97%D0%B0%D1%80%D0%B5_%D0%B4%D0%B0_%D0%B6%D0%B0%D0%BB%D0%B8%D0%BC%D0%BE",
+              "naziv": "Жали Заре да жалимо"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%94%D0%B5%D1%81%D0%B5%D1%82%D0%B5%D1%80%D0%B0%D1%86_%D0%BE_%D0%9F%D0%B0%D0%B2%D0%BB%D1%83_%D0%A1%D1%82%D1%80%D0%B5%D0%BC%D1%99%D0%B0%D0%BD%D0%B8%D0%BD%D1%83_%D0%B8_%D0%82%D0%B5%D1%80%D0%B7%D0%B5%D0%BB%D0%B5%D0%B7_%D0%90%D0%BB%D0%B8%D1%98%D0%B8",
+              "naziv": "Десетерац о Павлу Стремљанину и Ђерзелез Алији"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9D%D0%B8_%D0%B7%D0%BE%D1%80%D0%B8%D1%86%D0%B5,_%D0%BD%D0%B8_%D0%B1%D0%B8%D1%98%D0%B5%D0%BB%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BA%D0%B0",
+              "naziv": "Ни зорице, ни бијела данка"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%B5%D0%BC%D0%B5%D1%82%D0%B5,_%D0%BC%D0%BE%D1%80%D0%B8,_%D0%9C%D0%B5%D0%BC%D0%B5%D1%82%D0%B5",
+              "naziv": "Мемете, мори, Мемете"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%9C%D0%BE%D1%80%D0%B5,_%D1%81%D0%B0%D0%B7%D0%B4%D0%B0%D0%B4%D0%B5_%D1%81%D0%B5_%D1%86%D1%80%D0%BD%D0%B8_%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA",
+              "naziv": "Море, саздаде се црни облак"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%97%D0%B5%D1%98%D0%BD%D0%B5%D0%BB-%D0%BF%D0%B0%D1%88%D0%B0",
+              "naziv": "Зејнел-паша"
+            },
+            {
+              "url": "https://sr.wikisource.org/wiki/%D0%A1%D0%B2%D0%B5_%D1%81%D0%BA%D0%B8%D1%82%D0%B0%D1%98%D0%B0_%D0%B0%D1%98%D0%B4%D1%83%D0%BA_%D0%88%D0%BE%D1%81%D0%BC%D0%B0%D0%BD",
+              "naziv": "Све скитаја ајдук Јосман"
+            }
+          ],
+          "naziv_ciklusa": "Неразврстане"
+        }
+      ]
+    }
+  ]
